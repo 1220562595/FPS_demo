@@ -337,3 +337,9 @@ RELEASE_MSG
 
 .vsconfig
 .idea/*
+
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
